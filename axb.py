@@ -1,3 +1,8 @@
+'''
+A recursive function that implies 2 positive numbers a and b, and returns the result. 
+Multiplication is to be achieved as a+a+a(b times)
+'''
+
 def multiply(a,b):
 	c=0
 	if b==0:
